@@ -179,14 +179,7 @@ streamlit run interfaces/panel_monitorizacion.py
 * Mejorar el balanceo de clases en la predicción de ideología
 * Extender el sistema de agentes con más fuentes de personalización y canales de entrega
 
----
 
-## Licencia
-
-Todos los derechos reservados.
-No se permite el uso, copia, modificación o distribución de este software sin autorización expresa de los autores.
-
----
 
 ## Autores
 
