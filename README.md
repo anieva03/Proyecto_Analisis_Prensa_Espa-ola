@@ -178,11 +178,3 @@ streamlit run interfaces/panel_monitorizacion.py
 * Incorporar variables adicionales (estilo, sintaxis) para mejorar la predicción del periódico de origen
 * Mejorar el balanceo de clases en la predicción de ideología
 * Extender el sistema de agentes con más fuentes de personalización y canales de entrega
-
-
-
-## Autores
-
-Proyecto desarrollado como Memoria del Proyecto de la asignatura Procesado del Lenguaje Natural, en la Universitat de València (Escuela Técnica Superior de Ingeniería), por Álvaro Nieva Valenzuela, Azahara Martínez Moraño, Axel Valton Juan, Iyán Álvarez Rodríguez, Jeremy Joel Aguilar Marín y Joan Merlos Cremades.
-
-Código fuente disponible en: https://github.com/avaljuan/NLP_trabajo
